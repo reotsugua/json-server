@@ -1,0 +1,35 @@
+{
+    "influencers": [
+      {
+        "nome": "Camila Coutinho",
+        "descricao": "Influenciadora digital e criadora de conteúdo focada em moda e lifestyle.",
+        "link": "https://www.instagram.com/camilacoutinho/",
+        "redes_sociais": {
+          "instagram": "https://www.instagram.com/camilacoutinho/",
+          "youtube": "https://www.youtube.com/c/CamilaCoutinho",
+          "tiktok": "https://www.tiktok.com/@camilacoutinho"
+        }
+      },
+      {
+        "nome": "Felipe Neto",
+        "descricao": "Youtuber, escritor e empresário. Focado em cultura pop e política.",
+        "link": "https://www.instagram.com/felipeneto/",
+        "redes_sociais": {
+          "instagram": "https://www.instagram.com/felipeneto/",
+          "twitter": "https://twitter.com/felipeneto",
+          "youtube": "https://www.youtube.com/c/FelipeNeto"
+        }
+      },
+      {
+        "nome": "Thássia Naves",
+        "descricao": "Blogueira de moda, famosa por seus looks e dicas de estilo.",
+        "link": "https://www.instagram.com/thassianaves/",
+        "redes_sociais": {
+          "instagram": "https://www.instagram.com/thassianaves/",
+          "youtube": "https://www.youtube.com/c/ThassiaNaves",
+          "tiktok": "https://www.tiktok.com/@thassianaves"
+        }
+      }
+    ]
+  }
+  
