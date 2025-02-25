@@ -3,7 +3,6 @@
       {
         "nome": "Camila Coutinho",
         "descricao": "Influenciadora digital e criadora de conteúdo focada em moda e lifestyle.",
-        "link": "https://www.instagram.com/camilacoutinho/",
         "image": "assets/img/h0A4PuWV0.jpg",
         "redes_sociais": {
           "instagram": "https://www.instagram.com/camilacoutinho/",
@@ -14,7 +13,6 @@
       {
         "nome": "Felipe Neto",
         "descricao": "Youtuber, escritor e empresário. Focado em cultura pop e política.",
-        "link": "https://www.instagram.com/felipeneto/",
         "image": "assets/img/AhN6mXcc3.jpg",
         "redes_sociais": {
           "instagram": "https://www.instagram.com/felipeneto/",
@@ -25,7 +23,6 @@
       {
         "nome": "Thássia Naves",
         "descricao": "Blogueira de moda, famosa por seus looks e dicas de estilo.",
-        "link": "https://www.instagram.com/thassianaves/",
         "image": "assets/img/4d4V586nt.jpg",
         "redes_sociais": {
           "instagram": "https://www.instagram.com/thassianaves/",
